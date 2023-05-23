@@ -14,6 +14,7 @@ If you are looking forward to improving your programming skills, challenging you
 
 
 Bibliography:
+
 [1] Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747 
 https://doi.org/10.48550/arXiv.1609.04747
 
