@@ -12,8 +12,8 @@ Each of the code challenges offer the opportunity to apply your knowledge and pr
 
 If you are looking forward to improving your programming skills, challenging your knowledge or simply exploring new techniques, you should read the code I have provided and dive into the exciting world of practical implementation of algorithm learning and optimization!
 
-Bibliography:
 
+Bibliography:
 [1] Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747 
 https://doi.org/10.48550/arXiv.1609.04747
 
@@ -22,7 +22,7 @@ https://doi.org/10.48550/arXiv.1609.04747
 [3] Ochoa, G., & Malan, K. (2019, July). Recent advances in fitness landscape analysis. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1077-1094).https://dl.acm.org/doi/10.1145/3319619.3323383
 
 
-Author contact:                                           
+Author contact:  
 Sílvia Valls                                                                                                                                                    
 08391 Tiana, Spain            
 Email: silvia.valls01@estudiant.upf.edu
