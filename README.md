@@ -16,7 +16,9 @@ Bibliography:
 
 [1] Ruder, S. (2016). An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747 
 https://doi.org/10.48550/arXiv.1609.04747
+
 [2] Chai, T., & Draxler, R. R. (2014). Root mean square error (RMSE) or mean absolute error (MAE). Geoscientific model development discussions, 7(1), 1525-1534.doi:10.5194/gmdd-7-1525-2014
+
 [3] Ochoa, G., & Malan, K. (2019, July). Recent advances in fitness landscape analysis. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1077-1094).https://dl.acm.org/doi/10.1145/3319619.3323383
 
 
