@@ -2,6 +2,7 @@
 Sílvia Valls Santafé, u201136 / 255188  
 Email: silvia.valls01@estudiant.upf.edu
 
+
 In the presented code, 3 different challenges are implemented: the Mean Square Error calculation, the Fitness Landscape analysis and the Gradient Descent algorithm. 
 
 The Mean Square Error is a technique that is often used for regression problems. Here you can understand how the error in the prediction of continuous values is evaluated and minimized. Fitness Landscape analysis consists of exploring how the fitness of a solution varies in relation to changes in parameters. The Gradient Descent algorithm is an essential technique in machine learning, analyzing this code you will be able to observe how the parameters of the model are adjusted by minimizing a cost function.
