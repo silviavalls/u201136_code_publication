@@ -10,7 +10,7 @@ The Mean Square Error is a technique that is often used for regression problems.
 
 Each of the code challenges offer the opportunity to apply your knowledge and practice the implementation of different algorithms in a real context.  In addition, many comments are provided in the code so that you can understand it quickly and easily if you are not a programming expert.
 
-If you are looking forward to impdove your programming skills, challenging your knowledge or simply exploring new techniques, you should read the code I have provided and dive into the exciting world of practical implementation of algorithm learning and optimization!
+If you are looking forward to improve your programming skills, challenging your knowledge or simply exploring new techniques, you should read the code I have provided and dive into the exciting world of practical implementation of algorithm learning and optimization!
 
 
 Bibliography:
